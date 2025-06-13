@@ -1,1 +1,1 @@
-# CODSOFT_TASK1
+Titanic survival prediction is a classic machine learning problem where the goal is to predict whether a passenger survived the Titanic disaster based on features like age, gender, ticket class, and more. Using Python and tools like pandas, NumPy, and scikit-learn, we can analyze the dataset and build models to uncover survival patterns and make accurate predictions.
